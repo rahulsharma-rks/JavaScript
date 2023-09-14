@@ -4,3 +4,4 @@
 * [Booleans Operators Date](BooleansOperatorsDate)
 * [Conditionals](Conditionals)
 * [Arrays](Arrays)
+* [Loops](Loops)
