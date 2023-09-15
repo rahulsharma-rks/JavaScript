@@ -5,3 +5,4 @@
 * [Conditionals](Conditionals)
 * [Arrays](Arrays)
 * [Loops](Loops)
+* [Functions](Functions)
