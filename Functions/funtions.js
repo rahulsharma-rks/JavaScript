@@ -43,11 +43,3 @@ function fullName() {
     console.log(full)
 }
 fullName()
-
-function greetings(name = 'Root') {
-    let message = `${name}, welcome`
-    return message
-  }
-  
-//console.log(greetings())
-console.log(greetings('Admin'))
