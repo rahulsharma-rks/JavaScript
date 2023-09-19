@@ -6,3 +6,4 @@
 * [Arrays](Arrays)
 * [Loops](Loops)
 * [Functions](Functions)
+* [Objects](Objects)
