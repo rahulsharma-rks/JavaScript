@@ -7,3 +7,4 @@
 * [Loops](Loops)
 * [Functions](Functions)
 * [Objects](Objects)
+* [Higher Order Functions](HighrerOrderFunctions)
