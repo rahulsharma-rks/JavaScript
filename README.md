@@ -8,3 +8,4 @@
 * [Functions](Functions)
 * [Objects](Objects)
 * [Higher Order Functions](HighrerOrderFunctions)
+* [Sets and Maps](SetsAndMaps)
