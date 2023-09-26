@@ -10,3 +10,4 @@
 * [Higher Order Functions](HighrerOrderFunctions)
 * [Sets and Maps](SetsAndMaps)
 * [Destructuring and Spread](DestructuringSpread)
+* [Regular Expression](RegularExpressions)
