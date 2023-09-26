@@ -11,3 +11,4 @@
 * [Sets and Maps](SetsAndMaps)
 * [Destructuring and Spread](DestructuringSpread)
 * [Regular Expression](RegularExpressions)
+* [Console Object Methods](ConsoleObjectMethods)
