@@ -12,3 +12,5 @@
 * [Destructuring and Spread](DestructuringSpread)
 * [Regular Expression](RegularExpressions)
 * [Console Object Methods](ConsoleObjectMethods)
+* [Error Handling](ErrorHandling)
+* [Classes-StaticMethod-Inheritance](Classes)
