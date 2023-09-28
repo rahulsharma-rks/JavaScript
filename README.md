@@ -14,3 +14,5 @@
 * [Console Object Methods](ConsoleObjectMethods)
 * [Error Handling](ErrorHandling)
 * [Classes-StaticMethod-Inheritance](Classes)
+* [JSON](JSON)
+* [Web Storage](WebStorage)
