@@ -16,3 +16,5 @@
 * [Classes-StaticMethod-Inheritance](Classes)
 * [JSON](JSON)
 * [Web Storage](WebStorage)
+* [Promises](promises)
+* [Closures](closures)
