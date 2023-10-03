@@ -18,3 +18,4 @@
 * [Web Storage](WebStorage)
 * [Promises](promises)
 * [Closures](closures)
+* [DOM](DOM)
