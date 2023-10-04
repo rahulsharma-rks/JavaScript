@@ -1,0 +1,26 @@
+/*
+To create multiple elements we should use loop. Using loop we can create as many HTML elements as we want. After we create 
+the element we can assign value to the different properties of the HTML object.
+*/
+
+<html>
+
+<head>
+    <title>Document Object Model</title>
+</head>
+
+<body>
+
+    <script>
+        let title
+        for (let i = 0; i < 3; i++) {
+            title = document.createElement('h1')
+            title.className = 'title'
+            title.style.fontSize = '24px'
+            title.textContent = i
+            console.log(title)
+        }
+    </script>
+</body>
+
+</html>
