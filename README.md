@@ -19,3 +19,4 @@
 * [Promises](promises)
 * [Closures](closures)
 * [DOM](DOM)
+* [Events](Events)
