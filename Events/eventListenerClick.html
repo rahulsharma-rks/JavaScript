@@ -1,0 +1,38 @@
+<!--
+    Common HTML events:onclick, onchange, onmouseover, onmouseout, onkeydown, onkeyup, onload. We can add event listener 
+    method to any DOM object. We use addEventListener() method to listen different event types on HTML elements. The 
+    addEventListener() method takes two arguments, an event listener and a callback function.
+
+// Syntax:
+selectedElement.addEventListener('eventlistner', function(e) {
+  // the activity you want to occur after the event will be in here
+})
+// or
+
+selectedElement.addEventListener('eventlistner', e => {
+  // the activity you want to occur after the event will be in here
+})
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DOM</title>
+  </head>
+
+  <body>
+    <button>Single Click</button>
+
+    <script>
+      const button = document.querySelector('button')
+      button.addEventListener('click', e => {
+        console.log('e gives the event listener object:', e)
+        console.log('e.target gives the selected element: ', e.target)
+        console.log(
+          'e.target.textContent gives content of selected element: ',
+          e.target.textContent
+        )
+      })
+    </script>
+  </body>
+</html>
